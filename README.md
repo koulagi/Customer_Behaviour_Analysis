@@ -1,7 +1,7 @@
 # Customer_Behaviour_Analysis
 📊 Data analytics project exploring customer behavior patterns, purchasing habits, and segmentation using Power BI to uncover actionable business insights.
 
-# End-to-End Data Analytics Pipeline: [Insert Project Title, e.g., Customer Behavior & Sales Performance]
+# End-to-End Data Analytics Project: [Customer Behavior & Sales Performance]
 
 ## 📌 Project Overview
 This project delivers an end-to-end data analytics solution designed to ingest, clean, model, and visualize business data to uncover actionable strategic insights. By integrating Python for exploratory analysis, SQL Server for structured relational queries, and Power BI for interactive business intelligence, the pipeline transforms messy raw data into a narrative-driven presentation for stakeholders.
