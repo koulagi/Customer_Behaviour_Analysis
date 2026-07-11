@@ -11,8 +11,8 @@ This project delivers an end-to-end data analytics solution designed to ingest, 
 ---
 
 ## 📊 Dataset Description
-* **Source:** [Name of dataset, e.g., Kaggle, internal CRM database, etc.]
-* **Size:** [e.g., 50,000+ rows, 15 columns]
+* **Source:** [CSV File]
+* **Size:** [e.g., 4000+ rows, 15 columns]
 * **Core Variables:** Includes unique customer identifiers, transaction dates, product categories, regional demographics, purchase counts, and financial values.
 
 ---
